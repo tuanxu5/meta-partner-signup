@@ -90,6 +90,7 @@ const RAW_RUNTIME_STATE =
           ["input-otp", "virtual:4b468a72a559fa5f5d2d4d74dfb4714f24047e53e722d208febea6a8243349ebc587e3d0bee36084edf10263c3689d19a91a46ed5d2662f1dbdddd73d08141c5#npm:1.4.2"],\
           ["lucide-react", "virtual:4b468a72a559fa5f5d2d4d74dfb4714f24047e53e722d208febea6a8243349ebc587e3d0bee36084edf10263c3689d19a91a46ed5d2662f1dbdddd73d08141c5#npm:0.453.0"],\
           ["memorystore", "npm:1.6.7"],\
+          ["nanoid", "npm:5.1.5"],\
           ["passport", "npm:0.7.0"],\
           ["passport-local", "npm:1.0.0"],\
           ["postcss", "npm:8.5.3"],\
@@ -5983,6 +5984,13 @@ const RAW_RUNTIME_STATE =
           ["nanoid", "npm:3.3.11"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:5.1.5", {\
+        "packageLocation": "../../.yarn/berry/cache/nanoid-npm-5.1.5-79b61a9d37-10c0.zip/node_modules/nanoid/",\
+        "packageDependencies": [\
+          ["nanoid", "npm:5.1.5"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["negotiator", [\
@@ -7172,6 +7180,7 @@ const RAW_RUNTIME_STATE =
           ["input-otp", "virtual:4b468a72a559fa5f5d2d4d74dfb4714f24047e53e722d208febea6a8243349ebc587e3d0bee36084edf10263c3689d19a91a46ed5d2662f1dbdddd73d08141c5#npm:1.4.2"],\
           ["lucide-react", "virtual:4b468a72a559fa5f5d2d4d74dfb4714f24047e53e722d208febea6a8243349ebc587e3d0bee36084edf10263c3689d19a91a46ed5d2662f1dbdddd73d08141c5#npm:0.453.0"],\
           ["memorystore", "npm:1.6.7"],\
+          ["nanoid", "npm:5.1.5"],\
           ["passport", "npm:0.7.0"],\
           ["passport-local", "npm:1.0.0"],\
           ["postcss", "npm:8.5.3"],\
